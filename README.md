@@ -3,7 +3,7 @@
 
 MILI是一种可以在分辨率较低的图像上通过SMPL得到人体三维模型的方法。
 
-该方法实现是基于[Multiperson](https://github.com/Sicanno/multiperson)项目而进行的改进，非常感谢multiperson团队！
+该方法实现是基于[Multiperson](https://github.com/JiangWenPL/multiperson)项目而进行的改进，非常感谢multiperson团队！
 ## 安装
 同Multiperson
 
