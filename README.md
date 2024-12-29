@@ -20,10 +20,20 @@ COCO
 MuPoTS-3D   
 Panoptic  
 
-## Run the demo
+## Run training code
 ```
 cd mmdetection
-python3 tools/demo.py --config=configs/smpl/tune.py --image_folder=demo_images/ --output_folder=results/ --ckpt data/checkpoint.pt
+python3 tools/train-3.py configs/smpl/tune-2.py
+while true:
+do
+    python3 tools/train.py configs/smpl/tune-2.py 
+done
+```
+
+## Run eval code
+```
+cd mmdetection
+python3 tools/full_eval-2.py configs/smpl/tune.py 
 ```
 
 ## Citing
