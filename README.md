@@ -6,7 +6,8 @@ Volume 3, Issue 3,
 2023,
 Pages 434-441,
 ISSN 2667-3258,
-https://doi.org/10.1016/j.fmre.2023.02.006.[Paper](https://www.sciencedirect.com/science/article/pii/S2667325823000377?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=269426632&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM345715&utm_source=AC)
+https://doi.org/10.1016/j.fmre.2023.02.006.
+[Paper](https://www.sciencedirect.com/science/article/pii/S2667325823000377?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=269426632&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM345715&utm_source=AC#sec0008)
 
 ## Introduction
 Existing multi-person reconstruction methods require the human bodies in the input image to occupy a considerable portion of the picture. However, low-resolution human objects are ubiquitous due to trade-off between the field of view and target distance given a limited camera resolution. In this paper, we propose an end-to-end multi-task framework for multi-person inference from a low-resolution image (MILI).
